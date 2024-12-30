@@ -1,7 +1,7 @@
 # Plant Seedling Classification for Agritech
 
 ## Experimentation and Configurations
-In this project, 14 different configurations were tested to find the optimal model. Each configuration alters the parameters and architecture of the model to analyze how these changes affect the results. The uploaded files contain all the configurations used and a detailed analysis of how each configuration influenced the final model performance.
+In this project, 18 different configurations were tested to find the optimal model. Each configuration alters the parameters and architecture of the model to analyze how these changes affect the results. The uploaded files contain all the configurations used and a detailed analysis of how each configuration influenced the final model performance.
 
 ## Attachments
 - **Final Results PDF**: This document includes a detailed workflow of the project, showing the steps taken, results obtained, and insights gathered during the analysis.
